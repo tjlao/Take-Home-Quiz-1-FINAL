@@ -1,0 +1,11 @@
+a
+  {color: white;
+  text-align: center;
+  font-family: "quicksand";
+  font-style: normal;
+  font-size: 19;
+  padding: 0px 40px 0px 20px }
+
+a:hover {color: F9DA61;
+        font-family: "quicksand";
+        text-decoration: none}
